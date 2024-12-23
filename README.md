@@ -29,5 +29,7 @@ Petal width
 The target labels correspond to the species:
 
 0: Setosa
+
 1: Versicolor
+
 2: Virginica
